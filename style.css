@@ -5,6 +5,23 @@ body {
   text-align: center;
 }
 
-h1 {
+nav a {
+  padding: 10px;
+  background-color: red;
+}
 
+section#featured-property p {
+  font-size: 10px;
+  width: 800px;
+  text-align: center;
+  margin:0 auto;
+}
+
+
+section#details div {
+  display: block;
+  float: left;
+  background-color: green;
+  width: 25%;
+  text-align: center;
 }
