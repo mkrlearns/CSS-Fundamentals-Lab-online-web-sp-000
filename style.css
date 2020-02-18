@@ -21,7 +21,7 @@ section#featured-property p {
 section#details div {
   display: block;
   float: left;
-  background-color: green;
+  background-color: red;
   width: 25%;
   text-align: center;
 }
