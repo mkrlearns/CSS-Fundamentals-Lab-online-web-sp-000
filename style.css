@@ -16,9 +16,11 @@ section#featured-property p {
   margin:0 auto;
 }
 
-
-section#details div {
+#details {
   display: block;
+}
+
+#details div {
   float: left;
   background-color: red;
   width: 25%;
