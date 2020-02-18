@@ -10,8 +10,8 @@ nav a {
   background-color: grey;
 }
 
-section#featured-property p {
-  font-size: 10px;
+#featured-property p {
+  font-size: 13px;
   width: 800px;
   margin:0 auto;
 }
